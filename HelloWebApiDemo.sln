@@ -13,6 +13,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHost2", "SelfHost2\Self
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHosting3", "SelfHosting3\SelfHosting3.csproj", "{C47E7E1E-32AE-4BC9-BB19-FE2FF2CB3759}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostingSecurity", "SelfHostingSecurity\SelfHostingSecurity.csproj", "{24B7AEFD-DD08-4CF3-A6DE-2E5F74AED2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMethodOverride", "XMethodOverride\XMethodOverride.csproj", "{9ED3734D-9324-4FF0-8B00-443ECD5A05D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONPDemo", "JSONPDemo\JSONPDemo.csproj", "{C8596D1C-7C91-4392-BF18-B61C2D633B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONClient", "JSONClient\JSONClient.csproj", "{53665014-008F-471E-9560-990ECC000859}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +51,22 @@ Global
 		{C47E7E1E-32AE-4BC9-BB19-FE2FF2CB3759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C47E7E1E-32AE-4BC9-BB19-FE2FF2CB3759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C47E7E1E-32AE-4BC9-BB19-FE2FF2CB3759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B7AEFD-DD08-4CF3-A6DE-2E5F74AED2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B7AEFD-DD08-4CF3-A6DE-2E5F74AED2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B7AEFD-DD08-4CF3-A6DE-2E5F74AED2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B7AEFD-DD08-4CF3-A6DE-2E5F74AED2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED3734D-9324-4FF0-8B00-443ECD5A05D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED3734D-9324-4FF0-8B00-443ECD5A05D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED3734D-9324-4FF0-8B00-443ECD5A05D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED3734D-9324-4FF0-8B00-443ECD5A05D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8596D1C-7C91-4392-BF18-B61C2D633B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8596D1C-7C91-4392-BF18-B61C2D633B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8596D1C-7C91-4392-BF18-B61C2D633B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8596D1C-7C91-4392-BF18-B61C2D633B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53665014-008F-471E-9560-990ECC000859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53665014-008F-471E-9560-990ECC000859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53665014-008F-471E-9560-990ECC000859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53665014-008F-471E-9560-990ECC000859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
